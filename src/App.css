@@ -154,8 +154,8 @@ h5{
   font-weight: 400;
 }
 span{
-  color: light gainsboro;
-  
+  color:black;
+  gap: -4px;
 }
 
 .content{
